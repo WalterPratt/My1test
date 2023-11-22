@@ -13,4 +13,4 @@ resource "aws_instance" "example_instance" {
 
 extra line 
 
-NVT new management
+NVT management
